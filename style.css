@@ -9,7 +9,7 @@ header {
 }
 
 .caixa {
-	width: 940px;
+	width: auto;
 	position: relative;
 	margin: 0 auto;
 }
