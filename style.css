@@ -149,7 +149,7 @@ td, th {
 	padding: 8px 15px;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 560px) {
 
 	.caixa, main {
 		width: auto;
@@ -161,6 +161,7 @@ td, th {
 
 	nav {
 		position: static;
+		text-align: center;
 	}
 	
 	.produtos li {
